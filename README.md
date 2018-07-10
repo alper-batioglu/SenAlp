@@ -1,2 +1,4 @@
 selam
 senam
+naber
+alper
